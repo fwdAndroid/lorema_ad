@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>880129103791-feu0l2irds10f2rtm1clk9fui0hkeugp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.880129103791-feu0l2irds10f2rtm1clk9fui0hkeugp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>880129103791-nedshv731g64r037c0vmlm55dv8opqf9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSqqwdweC2n20Msd_7sV-TeceEvAIXTWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>880129103791</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.loremaAd</string>
+	<key>PROJECT_ID</key>
+	<string>lorema-d6513</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lorema-d6513.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:880129103791:ios:26c8fef2a664acd85bc15a</string>
+</dict>
+</plist>

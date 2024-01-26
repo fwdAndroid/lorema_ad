@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "880129103791",
+    "project_id": "lorema-d6513",
+    "storage_bucket": "lorema-d6513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880129103791:android:541a4c00d228c3445bc15a",
+        "android_client_info": {
+          "package_name": "com.example.lorema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880129103791-nedshv731g64r037c0vmlm55dv8opqf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lorema",
+            "certificate_hash": "d032a8260e33ba4be50791313c00d31bbdfe96a4"
+          }
+        },
+        {
+          "client_id": "880129103791-ltg1hhgvch8db7f3s8n1l1jhimhsosdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUC-SGzwpfqhgkmfAkdFTyXfKbD3Bvdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880129103791-ltg1hhgvch8db7f3s8n1l1jhimhsosdv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880129103791-rpb5sllodro6shtqqjm4bfv87ehteq2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lorema"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880129103791:android:635a37fd2909cea35bc15a",
+        "android_client_info": {
+          "package_name": "com.example.lorema_ad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880129103791-ltg1hhgvch8db7f3s8n1l1jhimhsosdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUC-SGzwpfqhgkmfAkdFTyXfKbD3Bvdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880129103791-ltg1hhgvch8db7f3s8n1l1jhimhsosdv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880129103791-rpb5sllodro6shtqqjm4bfv87ehteq2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lorema"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
